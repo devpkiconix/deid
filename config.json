@@ -1,0 +1,10 @@
+{
+    "idDbFile": "./iddb.pkl",
+    "idFieldName": "id",
+    "fieldSpecs": {
+        "Name": "name",
+        "DOB": "date",
+        "SSN": "ssn",
+        "Address": "address"
+    }
+}
